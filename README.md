@@ -2,7 +2,7 @@
 
 ## Description
 
-Popular game of snake built using Java.
+Classic game of snake built using Java.
 
 ![Classic game of snake with a large grid, a short green snake in a straight line, with a red target above it and a score of 1 at the top right](https://raw.githubusercontent.com/ColeBallard/snake/main/res/game-capture.PNG)
 
