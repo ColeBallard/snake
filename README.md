@@ -14,13 +14,9 @@ Popular game of snake built using Java.
 git clone https://github.com/ColeBallard/snake
 ```
 
-2. Download the latest Java SE Development Kit.
+2. [Download the latest Java SE Development Kit.](https://www.oracle.com/java/technologies/downloads)
 
-[Download here.](https://www.oracle.com/java/technologies/downloads)
-
-3. Set up Java environment variables.
-
-[More information here.](https://www.javatpoint.com/how-to-run-a-java-program-in-windows-10)
+3. Set up Java environment variables. [More information here.](https://www.javatpoint.com/how-to-run-a-java-program-in-windows-10)
 
 4. Compile the Game.java file.
 
