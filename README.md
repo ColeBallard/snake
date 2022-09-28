@@ -1,4 +1,4 @@
-# snake
+# Snake
 
 ## Description
 
@@ -31,6 +31,7 @@ java Game
 ```
 
 ## Contribution
+
 If you have an idea or want to report a bug, please create an issue.
 
 ## **[Contact](https://coleb.io/contact)**
